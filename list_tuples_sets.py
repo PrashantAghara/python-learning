@@ -80,5 +80,5 @@ empty_list2 = list()
 empty_tuple = ()
 empty_tuple2 = tuple()
 
-empty_set = {}
+empty_set = {}  # Its dictionary
 empty_set2 = set()
